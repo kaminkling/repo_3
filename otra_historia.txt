@@ -1,1 +1,5 @@
 aca va otra historia
+pero estamos en otro repo
+
+estamos editando desde el remoto
+vamos a hacer un pull con consola
